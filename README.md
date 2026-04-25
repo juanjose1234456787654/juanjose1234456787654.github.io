@@ -66,7 +66,7 @@ const juanjose = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjose1234456787654&theme=tokyonight&hide_border=true&stroke=0EA5E9&ring=0EA5E9&fire=0369A1&currStreakLabel=0EA5E9" width="500"/>
+  <img src="https://streak-stats.demolab.com/?user=juanjose1234456787654&theme=tokyonight&hide_border=true&stroke=0EA5E9&ring=0EA5E9&fire=0369A1&currStreakLabel=0EA5E9" width="500"/>
 </div>
 
 ---
